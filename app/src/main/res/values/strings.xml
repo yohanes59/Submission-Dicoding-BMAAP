@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Programming Pedia</string>
+    <string name="bahasa_name">Nama Bahasa</string>
+    <string name="penjelasan">Penjelasan</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="pl_penemu">Penemu</string>
+    <string name="pl_tahun">Tahun</string>
+    <string name="pl_sumber">Sumber</string>
+    <string name="content_penemu">content penemu</string>
+    <string name="content_tahun">content tahun</string>
+    <string name="content_sumber">content sumber</string>
+    <string name="pl_sejarah">Sejarah</string>
+    <string name="content_sejarah">content sejarah</string>
+    <string name="pl_penjelasan">Penjelasan</string>
+    <string name="content_penjelasan">content penjelasan</string>
+    <string name="profile">Profile</string>
+    <string name="my_name">Yohanes Cahyadi</string>
+    <string name="my_email">yohanescahyadi59@gmail.com</string>
+
+</resources>
